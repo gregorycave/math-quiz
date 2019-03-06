@@ -1,8 +1,8 @@
-package Exercise1;
+package MathQuiz;
 
 public class Main {
     public static void main(String[] args){
-        //Exercise1.partA();
-        //Exercise1.partB();
+        //MathQuiz.partA();
+        //MathQuiz.partB();
     }
 }
